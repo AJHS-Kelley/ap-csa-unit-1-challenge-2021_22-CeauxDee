@@ -1,4 +1,4 @@
-// Cody Collins, AP CSA Uni 1 Challenge, Andrew Jackson High School, 10/26/2021, 8:36 am, v1.0
+// Cody Collins, AP CSA Uni 1 Challenge, Andrew Jackson High School, 10/26/2021, 8:36 am, v1.5
 
 import java.util.Scanner;
 
@@ -16,6 +16,11 @@ public class DamageDealt {
 
         int attackPower = myScanner.nextLine();
 
+        System.out.println(" ");
+
+        System.out.println("What is getting hit? ");
+
+        String enemy = myScanner.nextLine();
         
     }
 }
